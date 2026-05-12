@@ -1,0 +1,7 @@
+Git est un système de gestion de versions qui permet de suivre les modifications du code, tandis que GitHub est une plateforme en ligne pour héberger et partager des projets Git.
+La commande git init sert à initialiser un dépôt Git dans un projet.
+La commande utilisée pour envoyer un projet sur GitHub est :
+git push
+Les branches permettent de travailler sur différentes fonctionnalités sans modifier directement le projet principal.
+La commande qui permet de voir l’historique des commits est :
+git log
